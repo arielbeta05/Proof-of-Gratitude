@@ -3,7 +3,7 @@
   "conoci_stellar": "2026-06-01",
   "github": "LuchoLeonel",
   "agradece_a": "al capítulo argentino de Stellar y a la gente de BAF",
-  "por_que": "Llegamos a Stellar por la hackathon PULSO, de NearX con la Stellar Development Foundation, y salimos segundos con la primera versión del protocolo portada a Soroban. Lo que no esperábamos fue lo que vino después. El capítulo argentino nos bancó un SOW de Instawards para integrar USDC nativo y dejar el protocolo probado en mainnet, y la gente de BAF nos abrió la puerta al SCF. Ninguna de las dos cosas fue un premio que ganamos: fue gente poniendo tiempo en que un equipo que recién llegaba pudiera llegar más lejos.",
+  "por_que": "Llegamos a Stellar por la hackathon PULSO, de NearX con la Stellar Development Foundation. La ganamos, y a partir de ahí todo lo que pasó vino de otros: nos invitaron al summit de Stellar en São Paulo con todo pago, y cuando aplicamos al SCF nos lo dieron el 9 de septiembre. Éramos un equipo que no conocía a nadie y nos trataron como si ya fuéramos parte. Eso es lo que agradezco, más que el premio o el grant.",
   "proximo_paso": "Llevar el crédito sin colateral a mainnet de Stellar con liquidez de USDC cross-chain, y que el historial de repago que una persona construye le sirva en cualquier wallet del ecosistema y no solo en la nuestra.",
   "tu_proyecto": "Lendoor: infraestructura de crédito embebida para la economía invisible de Latinoamérica. Scoring con datos alternativos para dar crédito sin colateral a quien el sistema formal no puede medir, con el ciclo completo de pedir, repagar y scorear corriendo en dos contratos Soroban compuestos.",
   "commits_hoy": "https://github.com/LuchoLeonel/lendoor-stellar/commits?author=LuchoLeonel",
